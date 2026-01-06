@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Kusaselihle%20Kusasa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Kusaselihle%20Avele%20Nene&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
 <div align="center">
   
-  # 👨‍💻 Full-Stack Developer in Training | Problem Solver | Tech Enthusiast
+  # 👨‍💻 Self-Taught Web Developer | Problem Solver | Tech Enthusiast
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Modern+Web+Applications;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Passionate+About+Clean+Code;Currently+Learning+Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Modern+Web+Applications;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Passionate+About+Clean+Code;Learning+Full-Stack+Development" alt="Typing SVG" />
   
 </div>
 
@@ -18,22 +18,21 @@
   
 </div>
 
-```javascript
-const kusaselihle = {
-    location: "South Africa 🇿🇦",
-    role: "Aspiring Web Developer",
-    dailyCoding: "4-8 hours 💪",
-    currentFocus: "Building Portfolio Projects",
-    goal: "Landing my first Junior Developer role",
-    
-    certifications: [
-        "SheCodes - Web Development 🎓",
-        "PLP Academy - Web Development 🎓"
-    ],
-    
-    lifePhilosophy: "Code, Learn, Build, Repeat 🔄"
-};
-```
+Hey there! 👋 I'm **Kusaselihle**, a **self-taught web developer** from **Durban, South Africa** 🇿🇦. My coding journey is fueled by curiosity, dedication, and a relentless passion for building things that matter.
+
+💪 **Daily Commitment:** I dedicate **4-8 hours every single day** to coding, learning, and problem-solving.
+
+🎓 **Learning Path:**
+- Started as a self-taught developer with pure determination
+- Earned **Web Development Certification** from **SheCodes**
+- Completed **Web Development Certification** at **PLP Academy**
+- Continuously learning through building real-world projects
+
+🎯 **Current Mission:** Building a strong portfolio of projects to showcase my skills and land my first **Junior Developer role in 2026**.
+
+✨ **My Mindset:** *"If you can dream it, you can code it."*
+
+🔄 **My Philosophy:** Code. Learn. Build. Repeat.
 
 ---
 
@@ -202,22 +201,10 @@ const kusaselihle = {
 
 <div align="center">
   
-  ### 🎵 Spotify Playing
-  
-  [![Spotify](https://novatorem-kusaselihle07.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-  
-  <sub>What I code to 🎧</sub>
-  
-</div>
-
----
-
-<div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
   
   ### 💜 Thanks for visiting! Let's build something amazing together!
   
-  <sub>⭐ From [kusaselihle07](https://github.com/kusaselihle07) with 💜</sub>
+  <sub>⭐ From [kusaselihle](https://github.com/kusaselihle07) with 💜</sub>
   
 </div>
