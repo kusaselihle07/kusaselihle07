@@ -18,7 +18,7 @@
   
 </div>
 
-Hey there! 👋 I'm **Kusaselihle**, a **self-taught web developer** from **Durban, South Africa** 🇿🇦. My coding journey is fueled by curiosity, dedication, and a relentless passion for building things that matter.
+Hey there! 👋 I'm **Kusaselihle**, a **self-taught web developer** .My coding journey is fueled by curiosity, dedication, and a relentless passion for building things that matter.
 
 💪 **Daily Commitment:** I dedicate **4-8 hours every single day** to coding, learning, and problem-solving.
 
